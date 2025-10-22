@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b8be95dff401fff4fad8ca90e79fa7d7, type: 3}
+  m_Name: 9-Tails
+  m_EditorClassIdentifier: 
+  conversation:
+  - {fileID: 11400000, guid: 8905197c55391284d950d1956d6b16e8, type: 2}
+  - {fileID: 11400000, guid: 5e3d8f1510617e44b95ae919e2a8faba, type: 2}
+  - {fileID: 11400000, guid: d0638fa363bcd9847b63c9ccfe8cc472, type: 2}
+  - {fileID: 11400000, guid: 49c7d3cf1c0e21d48950cbfbed91fd4f, type: 2}

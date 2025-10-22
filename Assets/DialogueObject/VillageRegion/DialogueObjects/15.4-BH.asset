@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2dcbeaefbd1c4bb47959b8d017905230, type: 3}
+  m_Name: 15.4-BH
+  m_EditorClassIdentifier: 
+  dialogue:
+  - "I am \u201CMiss Fox\u201D. "
+  - 'You should be more careful Xiao Qiu, there are a lot of creatures around here
+    that disguise themselves as harmless animals. '
+  - You really need to play with the other kids. Who knows what could happen to you
+    if you wander around and play by yourself.
+  - I can talk to Xiao Ming and tell them to stop bullying you.
+  charName: Bai Hu
+  charTitle: White Fox
+  charSprite: {fileID: 21300000, guid: add3207878f8dd540b6d1228844eadb7, type: 3}
+  responses: []

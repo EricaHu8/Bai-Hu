@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b8be95dff401fff4fad8ca90e79fa7d7, type: 3}
+  m_Name: 12-JRComplete
+  m_EditorClassIdentifier: 
+  conversation:
+  - {fileID: 11400000, guid: 2dbfdb51f4e3be54e9e4bd7a8ed9fe12, type: 2}
+  - {fileID: 11400000, guid: 0fbc5822e4339fb43b5ab8afaff4d2fb, type: 2}
+  - {fileID: 11400000, guid: 9b1cc75eff5fbf74bbe395e6afe0bf16, type: 2}
+  - {fileID: 11400000, guid: 8c4cccc35e23d9c4d9acf47a9e60992e, type: 2}
+  - {fileID: 11400000, guid: 0ab03cc6f84cffc4eb6da28cc34c5f6b, type: 2}
+  - {fileID: 11400000, guid: 3c68948c86a3a6c4e8e0384a1a75b707, type: 2}
+  - {fileID: 11400000, guid: 8b2e74b88216f704db514c489ed71842, type: 2}

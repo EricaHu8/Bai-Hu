@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 91a9545dfc32c0c4ead5e52b745ee308
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - spriteLibrary: {instanceID: 0}
+  - Master_Fox_Animator: {fileID: 9100000, guid: bcef1d756a415154aa00ab02ddc7de41, type: 2}
+  - human_fox_controller: {fileID: 9100000, guid: afac01658a55fc44bb6df8bf7dc0eae9, type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

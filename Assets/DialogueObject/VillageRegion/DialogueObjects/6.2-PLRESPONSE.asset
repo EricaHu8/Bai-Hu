@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2dcbeaefbd1c4bb47959b8d017905230, type: 3}
+  m_Name: 6.2-PLRESPONSE
+  m_EditorClassIdentifier: 
+  dialogue:
+  - Speaking of which, are you ever going to tell me your name?
+  - 
+  charName: Pei Liang
+  charTitle: Hopeless Romantic
+  charSprite: {fileID: 21300000, guid: f28486be98d6a124dac8e116b191cf1e, type: 3}
+  responses:
+  - responseText: Absolutely not.
+    dialogueObject: {fileID: 11400000, guid: 2a9131fecab7faf41867acd884a94aef, type: 2}
+  - responseText: Does it really matter?
+    dialogueObject: {fileID: 11400000, guid: 265ba08cae976164da3a1e2c14d7bb25, type: 2}
+  - responseText: You can just call me jiejie.
+    dialogueObject: {fileID: 11400000, guid: 5cfc7b78bad0502468973d87a0d9d7ef, type: 2}

@@ -1,0 +1,435 @@
+fileFormatVersion: 2
+guid: 38cfefb4a311573479808f869a33846c
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: walk_front_fox_alpha_1_tail_final_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 80
+        width: 80.125
+        height: 80
+      alignment: 9
+      pivot: {x: 0.67, y: 0.33}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62bb15e2c65810b4388bc789b3b60e71
+      internalID: -1035090690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walk_front_fox_alpha_1_tail_final_1
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 80
+        width: 80
+        height: 80
+      alignment: 9
+      pivot: {x: 0.67, y: 0.33}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc40027a4cc96bc4d8e5e2e87e6ed0f3
+      internalID: -363998762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walk_front_fox_alpha_1_tail_final_2
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 80
+        width: 80.125
+        height: 80
+      alignment: 9
+      pivot: {x: 0.67, y: 0.33}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d2742aafc9055e418bda4fa2b439b43
+      internalID: 393681426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walk_front_fox_alpha_1_tail_final_3
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 80
+        width: 80.125
+        height: 80
+      alignment: 9
+      pivot: {x: 0.67, y: 0.33}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aad6b32ea7251c1498a7cf43cbe84acf
+      internalID: -1076242559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walk_front_fox_alpha_1_tail_final_4
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 80
+        width: 80.125
+        height: 80
+      alignment: 9
+      pivot: {x: 0.67, y: 0.33}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c2ba157cd9451741bfc31a9c48b706d
+      internalID: -171042241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walk_front_fox_alpha_1_tail_final_5
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 80
+        width: 80.125
+        height: 80
+      alignment: 9
+      pivot: {x: 0.67, y: 0.33}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb9b119b6f708c0449205a672f15e51b
+      internalID: 1131990115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walk_front_fox_alpha_1_tail_final_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 80.125
+        height: 80
+      alignment: 9
+      pivot: {x: 0.67, y: 0.33}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c1f2805712769f4797ed09bfdddd856
+      internalID: -23223266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walk_front_fox_alpha_1_tail_final_7
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 0
+        width: 80.125
+        height: 80
+      alignment: 9
+      pivot: {x: 0.67, y: 0.33}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ca0108ec5112184b98b719c3b6e47da
+      internalID: 1874900775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walk_front_fox_alpha_1_tail_final_8
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 0
+        width: 80.125
+        height: 80
+      alignment: 9
+      pivot: {x: 0.67, y: 0.33}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87808be134bf9ec48a3cc4bdc153f95c
+      internalID: 1743588823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walk_front_fox_alpha_1_tail_final_9
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 0
+        width: 80.125
+        height: 80
+      alignment: 9
+      pivot: {x: 0.67, y: 0.33}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 178673b13d9608a4ab857fe3906fc426
+      internalID: 1556487093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walk_front_fox_alpha_1_tail_final_10
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 0
+        width: 80.125
+        height: 80
+      alignment: 9
+      pivot: {x: 0.67, y: 0.33}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca4712a3f60040245b1da0f2d61aa814
+      internalID: 529810679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walk_front_fox_alpha_1_tail_final_11
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 0
+        width: 80.125
+        height: 80
+      alignment: 9
+      pivot: {x: 0.67, y: 0.33}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1653c3b04d6ac54c903b735783190a3
+      internalID: -867951064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walk_front_fox_alpha_1_tail_final_12
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 0
+        width: 80.125
+        height: 80
+      alignment: 9
+      pivot: {x: 0.67, y: 0.33}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96c27a2602119194a9f5add5131015f5
+      internalID: 1531237342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walk_front_fox_alpha_1_tail_final_13
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 0
+        width: 80.125
+        height: 80
+      alignment: 9
+      pivot: {x: 0.67, y: 0.33}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c53c1ab1a83b3df4b9003f4c563aa297
+      internalID: -1432650220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      walk_front_fox_alpha_1_tail_final_0: -1035090690
+      walk_front_fox_alpha_1_tail_final_1: -363998762
+      walk_front_fox_alpha_1_tail_final_10: 529810679
+      walk_front_fox_alpha_1_tail_final_11: -867951064
+      walk_front_fox_alpha_1_tail_final_12: 1531237342
+      walk_front_fox_alpha_1_tail_final_13: -1432650220
+      walk_front_fox_alpha_1_tail_final_2: 393681426
+      walk_front_fox_alpha_1_tail_final_3: -1076242559
+      walk_front_fox_alpha_1_tail_final_4: -171042241
+      walk_front_fox_alpha_1_tail_final_5: 1131990115
+      walk_front_fox_alpha_1_tail_final_6: -23223266
+      walk_front_fox_alpha_1_tail_final_7: 1874900775
+      walk_front_fox_alpha_1_tail_final_8: 1743588823
+      walk_front_fox_alpha_1_tail_final_9: 1556487093
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

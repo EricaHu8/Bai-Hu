@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b8be95dff401fff4fad8ca90e79fa7d7, type: 3}
+  m_Name: 8-RudeEnding
+  m_EditorClassIdentifier: 
+  conversation:
+  - {fileID: 11400000, guid: e61ac5af0a2a2cd48b726d2a35fd1e67, type: 2}
+  - {fileID: 11400000, guid: 51e37405c3cc0c64f9d2761796fb5731, type: 2}
+  - {fileID: 11400000, guid: 63203dc96e14b7c45b1f392678eaa43e, type: 2}

@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b8be95dff401fff4fad8ca90e79fa7d7, type: 3}
+  m_Name: 6-PostQuest
+  m_EditorClassIdentifier: 
+  conversation:
+  - {fileID: 11400000, guid: 8094a2953a45ed549aa4d5ed70f4709c, type: 2}
+  - {fileID: 11400000, guid: 8a78991a819fa15418283941d189e02c, type: 2}
+  - {fileID: 11400000, guid: b45a2d58874aa5545b4f0b459ecbd4bc, type: 2}
+  - {fileID: 11400000, guid: 5b2dccc110f1b844b94bff1925f24531, type: 2}
+  - {fileID: 11400000, guid: ec60b1253d8ca9a44bfee319e775824d, type: 2}
+  - {fileID: 11400000, guid: ea0d746118053d2408d0acffdc82cadf, type: 2}
+  - {fileID: 11400000, guid: b2e9925ca8ecdc34db0c116fa54ccd80, type: 2}
+  - {fileID: 11400000, guid: 3e9a2dd4cccd0554eaae7a1cdf829bca, type: 2}
+  - {fileID: 11400000, guid: bcff421a0a45f944c8da2c965a92ddf5, type: 2}
+  - {fileID: 11400000, guid: 7c483c86b7e47e34596c0e7b796e733a, type: 2}
+  - {fileID: 11400000, guid: 4ba0a053ee5b390409dab1f4d7c0ab91, type: 2}

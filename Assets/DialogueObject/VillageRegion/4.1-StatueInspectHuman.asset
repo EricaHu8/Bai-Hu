@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b8be95dff401fff4fad8ca90e79fa7d7, type: 3}
+  m_Name: 4.1-StatueInspectHuman
+  m_EditorClassIdentifier: 
+  conversation:
+  - {fileID: 11400000, guid: fa24110c157824a469fd756c8a767863, type: 2}
+  - {fileID: 11400000, guid: c1b625c21c2c3fc43bdc4b2b4f8fd316, type: 2}
+  - {fileID: 11400000, guid: 658a9c48d2d1bc1489c6ff77384709c8, type: 2}

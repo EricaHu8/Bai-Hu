@@ -1,0 +1,479 @@
+fileFormatVersion: 2
+guid: 6cb98ca06dc639a4882d92cd48b9d333
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: walk_right_side_fox_tails_1_and_2_final_1_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 80
+        width: 80.125
+        height: 80
+      alignment: 9
+      pivot: {x: 0.733, y: 0.337}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f6fffe6aab79d7489441d86acb622d9
+      internalID: 1736294758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walk_right_side_fox_tails_1_and_2_final_1_1
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 80
+        width: 80.125
+        height: 80
+      alignment: 9
+      pivot: {x: 0.733, y: 0.337}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50691b01ec36c3f4f82fadfc6c7c5855
+      internalID: 307060890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walk_right_side_fox_tails_1_and_2_final_1_2
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 80
+        width: 80.125
+        height: 80
+      alignment: 9
+      pivot: {x: 0.733, y: 0.337}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76d53b05b583ce640b7f3d466d1b47d7
+      internalID: -461656250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walk_right_side_fox_tails_1_and_2_final_1_3
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 80
+        width: 80.125
+        height: 80
+      alignment: 9
+      pivot: {x: 0.733, y: 0.337}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: efb1e7dc89f85e244ae0d214c9d8cf85
+      internalID: -70463162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walk_right_side_fox_tails_1_and_2_final_1_4
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 80
+        width: 80.125
+        height: 80
+      alignment: 9
+      pivot: {x: 0.733, y: 0.337}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57baaf228b3cf4440bf0baa20fb6ebd7
+      internalID: -1558623439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walk_right_side_fox_tails_1_and_2_final_1_5
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 80
+        width: 80.125
+        height: 80
+      alignment: 9
+      pivot: {x: 0.733, y: 0.337}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4e94d94f263a1a47a79a6e0a8226629
+      internalID: 1978566970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walk_right_side_fox_tails_1_and_2_final_1_6
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 80
+        width: 80.125
+        height: 80
+      alignment: 9
+      pivot: {x: 0.733, y: 0.337}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d08908d3e4ebc6478f4a2c692bf4e1b
+      internalID: 1355763466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walk_right_side_fox_tails_1_and_2_final_1_7
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 80
+        width: 80.125
+        height: 80
+      alignment: 9
+      pivot: {x: 0.733, y: 0.337}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b96461cf23ee444d9cd88565aa09d53
+      internalID: 699217006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walk_right_side_fox_tails_1_and_2_final_1_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 80.125
+        height: 80
+      alignment: 9
+      pivot: {x: 0.733, y: 0.337}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f23c9237bc099524890409051ff11840
+      internalID: -916765791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walk_right_side_fox_tails_1_and_2_final_1_9
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 0
+        width: 80.125
+        height: 80
+      alignment: 9
+      pivot: {x: 0.733, y: 0.337}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9c4b68dcafb2d34a848cbf3ab5a4f5a
+      internalID: -1313792987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walk_right_side_fox_tails_1_and_2_final_1_10
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 0
+        width: 80.125
+        height: 80
+      alignment: 9
+      pivot: {x: 0.733, y: 0.337}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe6e8d81e72f7eb47bda02ce87a7741e
+      internalID: -470866738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walk_right_side_fox_tails_1_and_2_final_1_11
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 0
+        width: 80.125
+        height: 80
+      alignment: 9
+      pivot: {x: 0.733, y: 0.337}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7329e1f8deee7440a9e0128010aa20c
+      internalID: -273559868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walk_right_side_fox_tails_1_and_2_final_1_12
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 0
+        width: 80.125
+        height: 80
+      alignment: 9
+      pivot: {x: 0.733, y: 0.337}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 654aa79bc89855e47a52faaa41be927d
+      internalID: -134009027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walk_right_side_fox_tails_1_and_2_final_1_13
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 0
+        width: 80.125
+        height: 80
+      alignment: 9
+      pivot: {x: 0.733, y: 0.337}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18122015740ac57418cfef10b03468e6
+      internalID: 465426924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walk_right_side_fox_tails_1_and_2_final_1_14
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 0
+        width: 80.125
+        height: 80
+      alignment: 9
+      pivot: {x: 0.733, y: 0.337}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3e0da78c6045c44b9becdafa883ac85
+      internalID: 1947724322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walk_right_side_fox_tails_1_and_2_final_1_15
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 0
+        width: 80.125
+        height: 80
+      alignment: 9
+      pivot: {x: 0.733, y: 0.337}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8111fb845a7770f4b9e8e5b1167005e1
+      internalID: 534103835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      walk_right_side_fox_tails_1_and_2_final_1_0: 1736294758
+      walk_right_side_fox_tails_1_and_2_final_1_1: 307060890
+      walk_right_side_fox_tails_1_and_2_final_1_10: -470866738
+      walk_right_side_fox_tails_1_and_2_final_1_11: -273559868
+      walk_right_side_fox_tails_1_and_2_final_1_12: -134009027
+      walk_right_side_fox_tails_1_and_2_final_1_13: 465426924
+      walk_right_side_fox_tails_1_and_2_final_1_14: 1947724322
+      walk_right_side_fox_tails_1_and_2_final_1_15: 534103835
+      walk_right_side_fox_tails_1_and_2_final_1_2: -461656250
+      walk_right_side_fox_tails_1_and_2_final_1_3: -70463162
+      walk_right_side_fox_tails_1_and_2_final_1_4: -1558623439
+      walk_right_side_fox_tails_1_and_2_final_1_5: 1978566970
+      walk_right_side_fox_tails_1_and_2_final_1_6: 1355763466
+      walk_right_side_fox_tails_1_and_2_final_1_7: 699217006
+      walk_right_side_fox_tails_1_and_2_final_1_8: -916765791
+      walk_right_side_fox_tails_1_and_2_final_1_9: -1313792987
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

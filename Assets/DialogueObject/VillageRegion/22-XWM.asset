@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b8be95dff401fff4fad8ca90e79fa7d7, type: 3}
+  m_Name: 22-XWM
+  m_EditorClassIdentifier: 
+  conversation:
+  - {fileID: 11400000, guid: a469658f4fd1a9846a5376d54d314f94, type: 2}
+  - {fileID: 11400000, guid: 1206f12af49697848a104cb4399df1ab, type: 2}
+  - {fileID: 11400000, guid: 14e6a921873c3aa4b823334cc475d0b6, type: 2}
+  - {fileID: 11400000, guid: fe067c28facb39a4b86f1d7d685308a3, type: 2}
+  - {fileID: 11400000, guid: 4b2bc1b871cc06a4fb0a14aace5c0291, type: 2}
+  - {fileID: 11400000, guid: 73f17a9ab0ff5ff4b8769a47a8627d22, type: 2}
+  - {fileID: 11400000, guid: 8910079f920496743813e9d67203a818, type: 2}
+  - {fileID: 11400000, guid: 4e611b0f62bc51749a1a7ee7c5fb3caf, type: 2}
+  - {fileID: 11400000, guid: e2e37833dade0da4595b5acc409c6685, type: 2}

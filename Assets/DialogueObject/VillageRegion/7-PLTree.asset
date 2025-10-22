@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b8be95dff401fff4fad8ca90e79fa7d7, type: 3}
+  m_Name: 7-PLTree
+  m_EditorClassIdentifier: 
+  conversation:
+  - {fileID: 11400000, guid: 648ffffe756358e45ac7d7b203122333, type: 2}
+  - {fileID: 11400000, guid: d017fd0ffb14ec843883a4e4a158f683, type: 2}
+  - {fileID: 11400000, guid: cb7cfa334cf6ba6469b37fb66821bd4c, type: 2}
+  - {fileID: 11400000, guid: 89defb8bc6a367e40a616ab6f11d4f4b, type: 2}
+  - {fileID: 11400000, guid: 3f9bb1705ed73ce41a3d05b02429e298, type: 2}

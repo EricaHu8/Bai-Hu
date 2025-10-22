@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b8be95dff401fff4fad8ca90e79fa7d7, type: 3}
+  m_Name: 6-PLHouse
+  m_EditorClassIdentifier: 
+  conversation:
+  - {fileID: 11400000, guid: 5e646bb60e6807a498a9c0d298e7f08a, type: 2}
+  - {fileID: 11400000, guid: 5cf2f281f00541b428be43bf47d02bf6, type: 2}
+  - {fileID: 11400000, guid: e25afb2371220f74e9702e41375a7618, type: 2}
+  - {fileID: 11400000, guid: 066dfdb963ece274cad56e2d341ffaa5, type: 2}
+  - {fileID: 11400000, guid: 929dda423d90a934899f5e1190ecf9a6, type: 2}
+  - {fileID: 11400000, guid: d91bfb54d24cc6b458496083febfc9da, type: 2}
+  - {fileID: 11400000, guid: 25ea4e3e5a4b76041987bdcd6e6ddff3, type: 2}
+  - {fileID: 11400000, guid: b01be16c3d2ccc54f8ee46761d6c2b23, type: 2}
+  - {fileID: 11400000, guid: 7313cec7977fc0f4ba6ad8c7308f2c53, type: 2}

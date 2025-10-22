@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2dcbeaefbd1c4bb47959b8d017905230, type: 3}
+  m_Name: 7.2-PLRESPONSE
+  m_EditorClassIdentifier: 
+  dialogue:
+  - Before that! I prepared a special surprise for you!
+  - 
+  charName: Pei Liang
+  charTitle: Hopeless Romantic
+  charSprite: {fileID: 21300000, guid: f28486be98d6a124dac8e116b191cf1e, type: 3}
+  responses:
+  - responseText: I've had enough!
+    dialogueObject: {fileID: 11400000, guid: b98ea06d69f3ea84190814b00ad20053, type: 2}
+  - responseText: You need to stop interrupting me.
+    dialogueObject: {fileID: 11400000, guid: 758400433d18675419d02d00cec8300a, type: 2}
+  - responseText: For me?
+    dialogueObject: {fileID: 11400000, guid: b02b71bed1e862e43ac80ee9b3001832, type: 2}
