@@ -1,0 +1,75 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Item
+  - Start
+  - Tiger
+  - Stick
+  - Silkworm
+  - Inventory
+  - Dragon
+  - Jiaoren
+  - Lion
+  - Wuzhiqi
+  - PeiLiang
+  - XiaoQiu
+  - XiaoMing
+  - ChenYeye
+  - Leaf
+  - VillageLion
+  - Water
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - ground
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: below palyer
+    uniqueID: 230519673
+    locked: 0
+  - name: Shoreline
+    uniqueID: 1433344611
+    locked: 0
+  - name: bamboo1
+    uniqueID: 2349315865
+    locked: 0
+  - name: dragon
+    uniqueID: 1061708185
+    locked: 0
+  - name: trees
+    uniqueID: 953160773
+    locked: 0
