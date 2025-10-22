@@ -1,0 +1,30 @@
+PROFESSOR SKIP
+You will be able to bypass each level (not blocked by an invisible wall) if you press LeftCtrl + Space + M
+This will also give some of the necessary items to give to an NPC (faster than finding them in the overworld).
+
+Fonts
+Aokahori (Name)
+https://www.fontspace.com/aokahori-font-f77670
+
+Dekiru (Title)
+https://www.dafont.com/dekiru.font
+
+Noto Sans (Text)
+https://fonts.google.com/noto/specimen/Noto+Sans?query=noto+sans
+
+Zhi Mang Xing (Chinese)
+https://fonts.google.com/specimen/Zhi+Mang+Xing
+
+Human Template Base made by Aristo Sword (Sprites)
+https://aristo-sword.itch.io/aristo-character-base 
+
+Music and SFX
+Start Screen: https://freesound.org/people/kevp888/sounds/544014/
+End Screen: https://freesound.org/people/Vrymaa/sounds/754128/
+Cave music: https://freesound.org/people/Vrymaa/sounds/722394/
+Forest Ambience: https://pixabay.com/sound-effects/forest-ambience-296528/
+Town music: https://freesound.org/people/Vrymaa/sounds/754129/
+River Sound: https://pixabay.com/sound-effects/river-in-the-forest-17271/
+Item Pick Up: https://freesound.org/people/TreasureSounds/sounds/332629/
+Forest Region Music: https://freesound.org/people/FromLorenzo/sounds/552401/
+
